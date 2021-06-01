@@ -1,15 +1,5 @@
 import java.util.Iterator;
 
-//
-// Complete this class: 15 points
-//
-// Note:
-// Do NOT copy from textbook, or any other sources
-// Do NOT copy from code that we did in class (as it contains errors)
-//
-// Do READ CODE from textbook and in-class code and write it out as your own code
-//
-
 /**
    * DynamicArray class.
    * Implements Dynamic Array.
