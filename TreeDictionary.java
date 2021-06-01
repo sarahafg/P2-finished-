@@ -1,14 +1,3 @@
-
-//
-// Complete this class: 60 points + 20 bonus points
-//
-// Note:
-// Do NOT copy from textbook, or any other sources
-// Do NOT copy from code that we did in class (as it contains errors)
-//
-// Do READ CODE from textbook and in-class code and write it out as your own code
-//
-
 /**
    * TreeDictionary class.
    * TreeDictionary implements the (self-balance) binary search tree as a Dictionary.
