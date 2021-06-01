@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DynamicArray<CS310-pa02-summer2020-master_e15951de>",
+            "request": "launch",
+            "mainClass": "DynamicArray",
+            "projectName": "CS310-pa02-summer2020-master_e15951de"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedList<CS310-pa02-summer2020-master_e15951de>",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "CS310-pa02-summer2020-master_e15951de"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TreeDictionary<CS310-pa02-summer2020-master_e15951de>",
+            "request": "launch",
+            "mainClass": "TreeDictionary",
+            "projectName": "CS310-pa02-summer2020-master_e15951de"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cs310pa2<CS310-pa02-summer2020-master_e15951de>",
+            "request": "launch",
+            "mainClass": "cs310pa2",
+            "projectName": "CS310-pa02-summer2020-master_e15951de"
+        }
+    ]
+}
